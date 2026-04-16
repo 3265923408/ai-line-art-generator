@@ -77,7 +77,7 @@ The **SPAI Hair Line Art Generator** is an advanced AI platform that transforms 
 
 <details>
 <summary><strong>生成的头发线稿可以商用吗？</strong></summary>
-<p>生成的线稿可广泛用于个人作品集、发型设计提案及插画参考。商业用途建议结合您的原图版权进行评估或联系我们获取授权。</p>
+<p>生成的线稿可广泛用于个人作品集、发型设计提案及插画参考。商业用途建议结合您的原图版权进行评估或联系我们获取授权</p>
 </details>
 
 <details>
