@@ -18,7 +18,7 @@
 The **SPAI Hair Line Art Generator** is an advanced AI platform that transforms portrait photos into high-quality hair sketches. By utilizing deep learning models, it accurately captures hair texture, flow, and volume, making it an essential tool for hairstyle design, character illustration, and digital art practice
 
 ### Key Features
-*   **✨ Photo-to-LineArt:** Instantly convert hair photos into clean, professional sketches.
+*   **✨ Photo-to-LineArt:** Instantly convert hair photos into clean, professional sketches
 *   **🎭 Diverse Styles:** Choose from **Fine Pen Art**, **Pencil Sketch**, **Anime Lining**, and **Ink Wash**
 *   **⚡ Rapid Generation:** Get high-resolution results in 20-30 seconds.
 *   **📐 Precise Details:** AI understands hair strands and layers, providing clear outlines for hairstyle references.
