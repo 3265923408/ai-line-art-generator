@@ -87,7 +87,7 @@ The **SPAI Hair Line Art Generator** is an advanced AI platform that transforms 
 
 <details>
 <summary><strong>我上传的照片安全吗？</strong></summary>
-<p>非常安全。我们采用严格的隐私保护措施，上传的照片仅用于当次 AI 计算，任务完成后会自动从服务器清除，保护您的隐私。</p>
+<p>非常安全。我们采用严格的隐私保护措施，上传的照片仅用于当次 AI 计算，任务完成后会自动从服务器清除，保护您的隐私p>
 </details>
 
 ---
