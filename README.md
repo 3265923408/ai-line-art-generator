@@ -50,7 +50,7 @@ The **SPAI Hair Line Art Generator** is an advanced AI platform that transforms 
 | ![钢笔长发线稿](https://img.sipingseo.com/file/hair-lineart/OBk6T20c.webp) | ![钢笔短发线稿](https://img.sipingseo.com/file/hair-lineart/sw5flIrJ.webp) |
 
 #### 2. 铅笔素描风格 (Pencil Sketch)
-捕捉自然的光影层次与虚实变化，具有柔和的手绘质感，适合艺术创作参考
+捕捉自然的光影层次与虚实变化，具有柔和的手绘质感，适合艺术创作参考 。
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![铅笔卷发线稿](https://img.sipingseo.com/file/hair-lineart/GWBX0JeR.webp) | ![铅笔直发线稿](https://img.sipingseo.com/file/hair-lineart/H9eTMQn4.webp) |
