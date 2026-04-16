@@ -44,7 +44,7 @@ The **SPAI Hair Line Art Generator** is an advanced AI platform that transforms 
 我们的 AI 模型经过海量美术数据训练，能够驾驭多种复杂的头发表现技法：
 
 #### 1. 精细钢笔风格 (Fine Pen Style)
-强调发丝纹理的真实表现，轮廓清晰，是发型设计提案的理想选择。
+强调发丝纹理的真实表现，轮廓清晰，是发型设计提案的理想选择
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![钢笔长发线稿](https://img.sipingseo.com/file/hair-lineart/OBk6T20c.webp) | ![钢笔短发线稿](https://img.sipingseo.com/file/hair-lineart/sw5flIrJ.webp) |
