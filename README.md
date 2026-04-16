@@ -66,7 +66,7 @@ The **SPAI Hair Line Art Generator** is an advanced AI platform that transforms 
 1.  **上传参考图 (必选)**: 导入人物照片或发型图（支持 JPG/PNG/WebP）
 2.  **撰写线稿描述**: 输入您的详细风格需求。*例如：“精细钢笔风格，细密发丝纹理，优雅侧脸轮廓”*
 3.  **选择模型与尺寸**: 根据需求选择 `LineArt Pro` (标准) 或 `Sketch Master` (手绘)
-4.  **生成并下载**: 点击“生成头发线稿”，满意后免费下载高清 PNG 底稿。
+4.  **生成并下载**: 点击“生成头发线稿”，满意后免费下载高清 PNG 底稿
 
 ### ⚙️ 适配的专业 AI 引擎
 *   **LineArt Pro**: 业内最火模型，适合标准发型线稿与细节提取。
