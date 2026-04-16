@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-generator/hair-lineart)
 [![User Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-generator/hair-lineart)
 
-**SPAI 头发线稿助理是一款基于人工智能技术的在线创作工具。无论您是发型设计师、二次元插画师还是绘画爱好者，只需上传照片或输入描述，AI 即可在 20 秒内为您生成精细、专业、具有艺术感的头发线条画。支持钢笔精绘、铅笔素描、动漫描线及水墨写意等多种风格**
+**SPAI 头发线稿助理是一款基于人工智能技术的在线创作工具。无论您是发型设计师、二次元插画师还是绘画爱好者，只需上传照片或输入描述，AI 即可在 20 秒内为您生成精细、专业、具有艺术感的头发线条画。支持钢笔精绘、铅笔素描、动漫描线及水墨写意等多种风格  。**
 
 ## ➡️ **[立即生成专业发型线稿 | Start Generating Hair Line Art](https://www.sipingseo.com/zh/line-art-generator/hair-lineart)**
 
