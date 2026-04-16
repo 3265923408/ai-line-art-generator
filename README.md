@@ -56,7 +56,7 @@ The **SPAI Hair Line Art Generator** is an advanced AI platform that transforms 
 | ![铅笔卷发线稿](https://img.sipingseo.com/file/hair-lineart/GWBX0JeR.webp) | ![铅笔直发线稿](https://img.sipingseo.com/file/hair-lineart/H9eTMQn4.webp) |
 
 #### 3. 动漫与水墨风格 (Anime & Ink Wash)
-从活泼的二次元双马尾到充满意境的古风盘发，全方位覆盖各类视觉需求。
+从活泼的二次元双马尾到充满意境的古风盘发，全方位覆盖各类视觉需求
 | 动漫双马尾 | 古风水墨发型 |
 | :---: | :---: |
 | ![动漫线稿](https://img.sipingseo.com/file/hair-lineart/4Cx2sUJ3.webp) | ![水墨线稿](https://img.sipingseo.com/file/hair-lineart/Zh1w6Tbd.webp) |
