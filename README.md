@@ -22,7 +22,7 @@ The **SPAI Hair Line Art Generator** is an advanced AI platform that transforms 
 *   **🎭 Diverse Styles:** Choose from **Fine Pen Art**, **Pencil Sketch**, **Anime Lining**, and **Ink Wash**
 *   **⚡ Rapid Generation:** Get high-resolution results in 20-30 seconds
 *   **📐 Precise Details:** AI understands hair strands and layers, providing clear outlines for hairstyle references
-*   **💰 100% Free:** No registration or installation required. Access professional AI sketching tools online.
+*   **💰 100% Free:** No registration or installation required. Access professional AI sketching tools online
 
 **[➡️ Create Your Custom Hairstyle Sketch for Free](https://www.sipingseo.com/zh/line-art-generator/hair-lineart)**
 
