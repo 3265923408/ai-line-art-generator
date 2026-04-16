@@ -71,7 +71,7 @@ The **SPAI Hair Line Art Generator** is an advanced AI platform that transforms 
 ### ⚙️ 适配的专业 AI 引擎
 *   **LineArt Pro**: 业内最火模型，适合标准发型线稿与细节提取
 *   **Sketch Master (豆包)**: 专注于模拟真实手绘质感与灰度层次
-*   **Flux-Anime**: 针对二次元风格与夸张动态发丝进行了深度优化。
+*   **Flux-Anime**: 针对二次元风格与夸张动态发丝进行了深度优化
 
 ### ❓ 常见问题 (FAQ)
 
